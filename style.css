@@ -1,0 +1,47 @@
+.container {
+    max-width: 1170px;
+    margin: auto;
+    height: 1000px;
+}
+
+h1 {
+    text-align: center;
+    color: #5e0aa9;
+    font-family: Cambria, serif;
+}
+
+h2 {
+    font-family: Cambria, serif;
+    font-size: 20px;
+    color: gray;
+    font-weight: lighter;
+}
+
+.firsttask {
+    width: 300px;
+    word-break: keep-all;
+}
+
+.card {
+    text-align: center;
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    background-color: #b1b1b1;
+}
+.forcard {
+    margin: 0 auto;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+.black {
+    color: black;
+}
+
+
+
